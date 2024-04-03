@@ -1,0 +1,20 @@
+{
+  "name": "validate_checkbox_for_multi_rendering",
+  "version": "1.0.0",
+  "description": "Check Box Validation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilgs2001/checkBoxValidation.git"
+  },
+  "author": "Nikhil G S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilgs2001/checkBoxValidation/issues"
+  },
+  "homepage": "https://github.com/nikhilgs2001/checkBoxValidation#readme"
+}
