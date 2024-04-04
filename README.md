@@ -4,7 +4,7 @@ A checkBox handling mechanism for header as well as single checkbox associated w
 
 ## Installation
 
-Run `npm i validate_checkbox_for_multi_rendering`
+Run `npm i validate_checkbox_for_multiselect`
 
 Use:
 ````

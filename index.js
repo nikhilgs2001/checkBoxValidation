@@ -1,6 +1,6 @@
 const validateCheckBox = (type, value, label, data, index=0) => {  //default parameters passed to the function
     let arrayData = [...data];
-    let referenceData, countOfSelecetdItem = 0, headerCheckBox=true;
+    let referenceData, countOfSelecetdItem = 0, headerCheckBox=false;
     if(type == "single"){
         referenceData = arrayData[index];
         referenceData[label] = value;

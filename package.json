@@ -1,5 +1,5 @@
 {
-  "name": "validate_checkbox_for_multi_rendering",
+  "name": "validate_checkbox_for_multiselect",
   "version": "1.0.0",
   "description": "Check Box Validation",
   "main": "index.js",
